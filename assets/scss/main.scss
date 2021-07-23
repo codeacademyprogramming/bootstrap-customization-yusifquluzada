@@ -1,0 +1,31 @@
+// Bootstrap - Grid
+@import "../vendors/bootstrap-5.0.2/scss/bootstrap-grid.scss";
+
+// Bootstrap - Dependencies
+@import "../vendors/bootstrap-5.0.2/scss/mixins";
+
+// Bootstrap - Components
+@import "../vendors/bootstrap-5.0.2/scss/accordion";
+@import "../vendors/bootstrap-5.0.2/scss/buttons";
+@import "../vendors/bootstrap-5.0.2/scss/list-group";
+
+// Variables
+@import "./variables/colors";
+@import "./variables/spacing";
+
+// Mixins
+@import "./mixins/flexbox";
+
+// Typography
+@import "./typography";
+@import "./reset";
+
+// Components
+@import "./components/header";
+@import "./components/footer";
+@import "./components/button";
+
+// Pages
+@import "./pages/about";
+@import "./pages/index";
+@import "./pages/contact";

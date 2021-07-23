@@ -1,0 +1,15 @@
+.button {
+    padding: $spacing $spacing * 2;
+    color: $color-white;
+    font-size: 1.6rem;
+    border: none;
+    outline: none;
+
+    &--secondary {
+        background-color: $color-secondary;
+    }
+
+    &--primary {
+        background-color: $color-primary;
+    }
+}

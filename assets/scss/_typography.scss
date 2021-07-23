@@ -1,0 +1,17 @@
+// @font-face {
+//     font-family: "Some font";
+//     src: url(assets/fonts/some_font.ttf) type("ttf");
+// }
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 62.5%; // 1rem - 10px
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 3.5rem;
+}
